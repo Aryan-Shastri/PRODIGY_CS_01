@@ -1,0 +1,1 @@
+I was assigned this as my first duty during my internship at Prodigy InfoTech. It is a Python program that employs a very basic encryption technique. An encryption or decryption ```shift value``` must be specified by the user. This Python application uses the ```Caesar Cipher Algorithm``` to either encrypt or decrypt user messages.
